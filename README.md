@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhananjay2125 workingnomads](https://github.com/Dhananjay2125 workingnomads)
 
+- 🤖**Certification** - (https://simpli-web.app.link/e/uaRdXFRONMb)
+
 - 💬 Ask me about **EDA,SQL,Python,Machine learning,Deep learning,PowerBI**
 
 - 📫 How to reach me **dhananjaymane2125@gmail.com**
