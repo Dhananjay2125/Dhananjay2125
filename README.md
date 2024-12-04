@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Mane</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1BCFcXb4orfJe1JCFKh1_v&ust=1733385469831000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCh1JzSjYoDFQAAAAAdAAAAABAE">
-
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhananjay2125 workingnomads](https://github.com/Dhananjay2125 workingnomads)
