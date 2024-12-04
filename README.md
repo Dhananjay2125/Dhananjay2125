@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Mane</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 Working As a Data Analyst
+  
+- 🕵️ Enthusiast **Machine learning, Deep learning** Engineer
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhananjay2125 workingnomads](https://github.com/Dhananjay2125 workingnomads)
 
