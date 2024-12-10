@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dhananjaymane2125@gmail.com**
 
-- ⚡ Fun fact **Predicting pizza toppings 😁**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
